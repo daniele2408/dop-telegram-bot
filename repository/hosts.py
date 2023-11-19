@@ -1,0 +1,1 @@
+URL_DOP: str = "https://www.dizionario.rai.it"

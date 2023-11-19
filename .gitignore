@@ -1,0 +1,17 @@
+# File di configurazione di PyCharm
+.idea/
+
+# File bytecode Python
+__pycache__/
+
+# File generati da Python
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# configs not to commit
+*.ini
